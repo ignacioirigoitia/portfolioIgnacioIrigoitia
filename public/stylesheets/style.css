@@ -189,7 +189,6 @@ img{
 }
 .home__data{
   align-self: center;
-  margin-bottom: 3.5rem;
 }
 .home__title{
   font-size: var(--big-font-size);
@@ -215,8 +214,8 @@ img{
   position: absolute;
   right: 0;
   bottom: 0;
-  width: 270px;
-  height: 270px;
+  width: 250px;
+  height: 250px;
 }
 
 /* BUTTONS */
